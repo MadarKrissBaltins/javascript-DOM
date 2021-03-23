@@ -8,11 +8,14 @@
 
 Your reply here...
 
+//Kad lapa tiek restartēta, tā restartējās kopā ar linku.
 ---
 
 > Remove `window.addEventListener("load", function(){` (and the closing `})`) from **global.js**. Does the link still reveal the text? What is the purpose of this code that you've removed?
 
 Your reply here...
+
+Java scripts nevar redzēt visas html izveidotās klases.
 
 ---
 
