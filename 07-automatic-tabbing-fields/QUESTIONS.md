@@ -7,3 +7,4 @@
 > What are some refactoring techniques you might apply to the provided solution?
 
 Your reply here...
+pārvietojoties pa input tagiem ar funkciju focus()
